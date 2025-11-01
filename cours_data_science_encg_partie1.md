@@ -1,6 +1,7 @@
 # COURS DE SCIENCE DES DONNÉES
 
 # A. Larhlimi
+<img width="820" height="312" alt="image" src="https://github.com/user-attachments/assets/d8d0857f-ca23-4de8-9878-c586ffcbdabb" />
 
 
 
